@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/nidhishthangam/nidhishthangam/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello 👋, I'm Nidhish Kumar T</h1>
 <h3 align="center">Artificial Intelligence Enthusiast from India</h3>
 
-<img src="https://github.com/user-attachments/assets/98bdffb8-2eee-4619-ad90-e197604ca3e6"
+<img src="https://i.pinimg.com/originals/5d/2d/2b/5d2d2b4d7a93f3fcb2f7c8f0bb3d4d87.gif"
      width="300"
      align="right"
      alt="coding animation"/>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=nidhishthangam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -30,14 +30,14 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<a href="https://www.linkedin.com/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-## 🚀 Languages and Tools
+# 🚀 Languages and Tools
 
 <p align="left">
 
@@ -130,5 +130,5 @@ Your College Name
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt="GitHub streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhishthangam" alt="GitHub streak stats"/>
 </p>

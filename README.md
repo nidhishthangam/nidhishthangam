@@ -1,16 +1,134 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/main/banner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**nidhishthangam/nidhishthangam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello 👋, I'm Nidhish Kumar T</h1>
+<h3 align="center">Artificial Intelligence Enthusiast from India</h3>
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/98bdffb8-2eee-4619-ad90-e197604ca3e6"
+     width="300"
+     align="right"
+     alt="coding animation"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Aspiring Artificial Intelligence & Data Science Professional  
+📍 Chennai, Tamil Nadu, India  
+
+- 🌱 Currently learning **Machine Learning, AI, and Data Analytics**
+- 💡 Interested in **Artificial Intelligence, Python, and Data Science**
+- 📫 Reach me at: **nithishkumarnithishkumar495@gmail.com**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 📌 Skills
+
+### Programming
+- Python
+- SQL
+- R Language
+- Deep Learning
+- Big Data
+- Mongo DB
+  
+### Artificial Intelligence & Machine Learning
+- Regression
+- Classification
+- Clustering
+- Model Evaluation
+
+### Data Visualization
+- Power BI
+- Matplotlib
+- Seaborn
+
+### Tools
+- VS Code
+- Google Colab
+- MySQL
+- Excel
+
+---
+
+# 📂 Projects
+
+## 🔹 AI Based Machine Learning Application
+- Developed a machine learning web application using Streamlit
+- Uploaded datasets, trained models, and displayed predictions
+
+## 🔹 Netflix Dashboard – Power BI
+- Created interactive dashboards for Netflix content analysis
+- Used DAX and Power Query for data transformation
+
+## 🔹 Amazon Sales Dashboard
+- Analyzed revenue, sales trends, and customer insights
+- Built dynamic Power BI visualizations
+
+## 🔹 COVID-19 Data Tracker
+- Built using Python, Pandas, Tkinter, and Matplotlib
+- Displayed country-wise COVID statistics
+
+---
+
+# 🎓 Education
+
+**Bachelor Degree**  
+Your College Name  
+2022 – 2025  
+
+---
+
+# 📞 Contact
+
+- 📧 Email: nithishkumarnithishkumar495@gmail.com
+- 📍 Omalur, Tamil Nadu, India
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt="GitHub streak stats"/>
+</p>

@@ -1,38 +1,53 @@
 <p align="center">
-  <img src="https://github.com/nidhishthangam/nidhishthangam/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nidhishthangam/nidhishthangam/main/N.BANNER.png"
+       alt="Nidhish Kumar Banner"
+       width="100%" />
 </p>
 
 <h1 align="center">Hello 👋, I'm Nidhish Kumar T</h1>
-<h3 align="center">Artificial Intelligence Enthusiast from India</h3>
+<h3 align="center">Artificial Intelligence & Data Science Enthusiast from India</h3>
 
-<img src="https://i.pinimg.com/originals/5d/2d/2b/5d2d2b4d7a93f3fcb2f7c8f0bb3d4d87.gif"
-     width="300"
-     align="right"
-     alt="coding animation"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5d/2d/2b/5d2d2b4d7a93f3fcb2f7c8f0bb3d4d87.gif"
+       width="300"
+       alt="Coding Animation"/>
+</p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=nidhishthangam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhishthangam&label=Profile%20Views&color=0e75b6&style=flat"
+       alt="Profile Views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Aspiring Artificial Intelligence & Data Science Professional  
 📍 Chennai, Tamil Nadu, India  
 
-- 🌱 Currently learning **Machine Learning, AI, and Data Analytics**
-- 💡 Interested in **Artificial Intelligence, Python, and Data Science**
+- 🌱 Currently learning **Machine Learning, Artificial Intelligence, and Data Analytics**
+- 💡 Interested in **AI, Python, Data Science, and Deep Learning**
+- 🚀 Building real-world projects using **Python and Machine Learning**
 - 📫 Reach me at: **nithishkumarnithishkumar495@gmail.com**
 
 ---
 
-## 🔗 Connect with Me
+# 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       width="40"
+       height="40"/>
 </a>
+
+<a href="mailto:nithishkumarnithishkumar495@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+       width="40"
+       height="40"/>
+</a>
+
 </p>
 
 ---
@@ -41,24 +56,34 @@
 
 <p align="left">
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.mysql.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.mongodb.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<a href="https://scikit-learn.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+<a href="https://seaborn.pydata.org">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+       width="40"
+       height="40"/>
 </a>
 
 </p>
@@ -67,38 +92,41 @@
 
 # 📌 Skills
 
-### Programming
+## Programming
 - Python
 - SQL
-- R Language
+- R Programming
 - Deep Learning
 - Big Data
-- Mongo DB
-  
-### Artificial Intelligence & Machine Learning
+- MongoDB
+
+## Artificial Intelligence & Machine Learning
 - Regression
 - Classification
 - Clustering
 - Model Evaluation
+- Feature Engineering
 
-### Data Visualization
+## Data Visualization
 - Power BI
 - Matplotlib
 - Seaborn
 
-### Tools
+## Tools
 - VS Code
 - Google Colab
 - MySQL
 - Excel
+- Jupyter Notebook
 
 ---
 
 # 📂 Projects
 
-## 🔹 AI Based Machine Learning Application
+## 🔹 AI-Based Machine Learning Application
 - Developed a machine learning web application using Streamlit
 - Uploaded datasets, trained models, and displayed predictions
+- Compared machine learning algorithms
 
 ## 🔹 Netflix Dashboard – Power BI
 - Created interactive dashboards for Netflix content analysis
@@ -116,19 +144,36 @@
 
 # 🎓 Education
 
-**Bachelor Degree**  
-Your College Name  
+### Bachelor Degree
+**7 Arts College (Autonomous), Salem**  
 2022 – 2025  
+
+### Certification
+**Artificial Intelligence Course**  
+Imagecon Academy, Salem  
 
 ---
 
 # 📞 Contact
 
-- 📧 Email: nithishkumarnithishkumar495@gmail.com
-- 📍 Omalur, Tamil Nadu, India
+📧 Email: nithishkumarnithishkumar495@gmail.com  
+📍 Location: Omalur, Tamil Nadu, India  
 
 ---
 
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhishthangam" alt="GitHub streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhishthangam"
+       alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhishthangam&show_icons=true"
+       alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishthangam&layout=compact"
+       alt="Top Languages"/>
 </p>
